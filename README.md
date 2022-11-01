@@ -3,7 +3,7 @@ This is the code for the candy_robot project.
 
 Here is what the robot does:
 
-check www.rasppiproject.com for more details
+check www.rasppiproject.com for more details top right - projects- candy robot - select build or program
 
 Button for random candy:
 	The user can press R to initiate a sort of roulette game. The lights will flicker
